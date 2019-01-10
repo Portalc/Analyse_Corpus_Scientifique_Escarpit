@@ -30,14 +30,24 @@ De plus nous avons intégré les métadonnées suivantes, en fonction des dates 
 * *subject_XXXX
 * *type_XXXX
 
-Notre choix de variables repose donc sur différentes catégories. En voici un exemple :
+Notre choix de variables repose donc sur ces différentes catégories :
 
-| *date_XXXX      | *subject_XXXX     | *type_XXXX      |
-| ------------- | ------------- | ------------- |
-| *date_1969      | *subject_infocom      | *type_colloque_international      |
-| *date_XXXX        | *subject_communication       | *type_XXXX        |
-| *date_XXXX      | *subject_litterature      | *type_XXXX      |
-
+| *date_XXXX     | *subject_XXXX   | *type_XXXX      |
+| ------------- | -------------  | ------------- |
+| *date_1969    | *subject_infocom           | *type_colloque_international      |
+| *date_1970    | *subject_communication    | *type_article        |
+| *date_1948    | *subject_litterature     | *type_article_scientifique      |
+| *date_1952    | *subject_histoire       | *type_colloque_international      |
+| *date_1960    | *subject_information_scientifique    | *type_discours        |
+| *date_1966    | *subject_journalisme                |       |
+| *date_1972    | *subject_sociologie                |       |
+| *date_1974    | *subject_sociologie_litterature   |       |
+| *date_1977    | *subject_litterature_masse       |       |
+| *date_1978    |        |       |
+| *date_1979    |        |       |
+| *date_1982    |        |       |
+| *date_1984    |        |       |
+| *date_1992   |        |       |
 
 [Lien vers la version .txt]()
 
